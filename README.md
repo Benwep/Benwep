@@ -17,7 +17,22 @@
 <a href="Discordapp.com/users/577359445869199372" target="blank"><img align="center" src="https://webstockreview.net/images/discord-icon-png.png" alt="Discord profile link : Discordapp.com/users/577359445869199372" height="40" width="40" /></a>
 </p>
 
-<img width="100%" src="https://github.com/Benwep/Benwep/blob/main/yeah.png?raw=true" alt="knowledges"/>
+
+<ul>Programming languages/skills
+  <li>HTML & CSS</li>
+  <li>Javascript</li>
+  <li>Python</li>
+  
+  <li>Node.js</li>
+  <li>Jquery</li>
+
+</ul>
+
+<ul>Languages i speak
+  <li>Ukrainian</li>
+  <li>Russian</li>
+  <li>English</li>
+</ul>
 
 <hr>
 <p><img align="left" href="https://github-readme-stats.vercel.app/api/top-langs?username=Benwep&show_icons=true&theme=radical&locale=en&layout=compact)https://github-readme-stats.vercel.app/api/top-langs?username=Benwep&show_icons=true&theme=radical&locale=en&layout=donut-chart" src="https://github-readme-stats.vercel.app/api/top-langs?username=Benwep&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Saul" /></p>
