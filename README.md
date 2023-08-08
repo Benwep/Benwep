@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on nothing
 
-- 🌱 I’m currently learning Node.js while improving HTML & CSS
+- 🌱 I’m currently learning database while improving HTML & CSS
 
 <h3>Education</h3>
 
