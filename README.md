@@ -26,14 +26,16 @@ Programming languages/skills
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png" width="50px" height="50px">
 
  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" width="50px" height="50px" style="margin-left:50px;">
- <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="50px" height="50px">
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="50px" height="50px">
 </div>
 
-<ul>Languages i speak
-  <li>Ukrainian</li>
-  <li>Russian</li>
-  <li>English</li>
-</ul>
+Languages i speak
+<div style="width:100%;display:flex; margin-top:10%;>
+  <img src="https://img.freepik.com/free-icon/russia_318-297382.jpg" width="50px" height="50px">
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="50px" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/800px-United-kingdom_flag_icon_round.svg.png" width="50px" height="50px">
+</div>
+
 
 <hr>
 <p><img align="left" href="https://github-readme-stats.vercel.app/api/top-langs?username=Benwep&show_icons=true&theme=radical&locale=en&layout=compact)https://github-readme-stats.vercel.app/api/top-langs?username=Benwep&show_icons=true&theme=radical&locale=en&layout=donut-chart" src="https://github-readme-stats.vercel.app/api/top-langs?username=Benwep&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Saul" /></p>
