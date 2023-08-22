@@ -24,13 +24,10 @@ Programming languages/skills
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50px" height="50px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="50px" height="50px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png" width="50px" height="50px">
+
+ <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" width="50px" height="50px" style="margin-left:5%;">
+ <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="50px" height="50px">
 </div>
-
- <div style="width:100%;display:flex;>
-  <p><img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" width="50px" height="50px"></p>
-  <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="50px" height="50px">
- </div>
-
 
 <ul>Languages i speak
   <li>Ukrainian</li>
