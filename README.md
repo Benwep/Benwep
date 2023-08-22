@@ -18,15 +18,15 @@
 </p>
 
 
-<ul>Programming languages/skills
-  <li>HTML & CSS</li>
+Programming languages/skills
+ <p><li>HTML & CSS</li></p> 
   <li>Javascript</li>
   <li>Python</li>
   
   <li>Node.js</li>
   <li>Jquery</li>
 
-</ul>
+
 
 <ul>Languages i speak
   <li>Ukrainian</li>
