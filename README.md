@@ -27,7 +27,7 @@ Programming languages/skills
 </div>
 
  <div style="width:100%;display:flex;>
-  <p><img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="50px" height="50px"></p>
+  <p><img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" width="50px" height="50px"></p>
   <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="50px" height="50px">
  </div>
 
