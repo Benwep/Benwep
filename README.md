@@ -19,12 +19,12 @@
 
 
 Programming languages/skills
- <p><li>HTML & CSS</li></p> 
-  <li>Javascript</li>
-  <li>Python</li>
+ <p>HTML & CSS</p> 
+  Javascript
+  Python
   
-  <li>Node.js</li>
-  <li>Jquery</li>
+  Node.js
+  Jquery
 
 
 
