@@ -31,7 +31,7 @@ Programming languages/skills
 
 Languages i speak
 <div style="width:100%;display:flex; margin-top:200px;>
-  <img src="https://cdn.countryflags.com/thumbs/russia/flag-round-250.png" width="50px" height="50px">
+  <img src="https://cdn.icon-icons.com/icons2/3665/PNG/512/russia_flag_icon_228690.png" width="50px" height="50px">
   <img src="https://cdn-icons-png.flaticon.com/512/197/197572.png" width="50px" height="50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/800px-United-kingdom_flag_icon_round.svg.png" width="50px" height="50px">
 </div>
