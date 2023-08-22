@@ -19,7 +19,7 @@
 
 
 Programming languages/skills
- <p><img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="50px" height="50px"></p>
+ <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LPgaEFH2lvjIAk4uJTXJzTzRHnvVf_6yifnVRmDyt4Y8ZQZcNDv4rSNl5n3JGv8_nj8&usqp=CAU" width="50px" height="50px"></p>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50px" height="50px">
   Javascript
   Python
