@@ -19,7 +19,7 @@
 
 
 Programming languages/skills
- <p>HTML & CSS</p> 
+ <img src="https://th.bing.com/th/id/R.b4057342439f5eeb1400a968fe3b0a36?rik=a2zem%2fNBKdvr9Q&pid=ImgRaw&r=0" width="50px" height="50px">
   Javascript
   Python
   
