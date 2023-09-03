@@ -30,7 +30,9 @@ Programming languages/skills
  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" width="50px" height="50px" style="margin-left:50px;">
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="50px" height="50px">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" width="50px" height="50px">
-</div>
+  <img src="https://ru.wikipedia.org/wiki/Lua
+   </div>" width="50px" height="50px">
+  
 
 Languages i speak
 <div style="width:100%;display:flex; margin-top:200px;>
