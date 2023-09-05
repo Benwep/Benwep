@@ -31,7 +31,7 @@ Programming languages/skills
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="50px" height="50px">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" width="50px" height="50px">
   <img src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lua-Logo.svg"width="50px" height="50px">
-   </div>" 
+   </div>
   
 
 Languages i speak
