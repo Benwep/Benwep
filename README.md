@@ -1,11 +1,11 @@
 <h1 align="center">Yo 👋, I'm Saul</h1>
-<h3 align="center">I want to be Fullstack web developer</h3>
+<h3 align="center">I'm just a developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Benwep&label=Profile%20views&color=0e75b6&style=flat" alt="Saul" /> </p>
 
 - 🔭 I’m currently working on a Roblox game
 
-- 🌱 I’m currently learning frameworks while improving HTML & CSS
+- 🌱 Currently improving lua skills
 
 <h3>Education</h3>
 
