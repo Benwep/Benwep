@@ -5,7 +5,7 @@
 
 <!-- -🔭 -->
 
-- 🌱 Currently improving lua skills
+- 🌱 Currently improving js skills
 
 <h3>Education</h3>
 
