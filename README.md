@@ -9,7 +9,7 @@
 
 <h3>Education</h3>
 
-- Finishing Middle school
+- Studying at highschool
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
