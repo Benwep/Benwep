@@ -5,7 +5,7 @@
 
 <!-- -🔭 -->
 
-- 🌱 Currently improving js skills
+- 🌱 This lazy ass ain't doing nothing
 
 <h3>Education</h3>
 
